@@ -1,26 +1,26 @@
 [
   {
     "name": "Anita Sharma",
-    "expertise": "Digital Marketing",
     "bio": "10+ years of experience in SEO and social media strategies.",
-    "imageUrl": "https://assets.zyrosite.com/dOq8LZD1epuBzrL5/dc75fd7c-0f1b-443c-85a2-390f1b04aee1-removebg-preview-mnlqa4KKXoFrklZ7.png"
+    "imageUrl": "https://assets.zyrosite.com/dOq8LZD1epuBzrL5/dc75fd7c-0f1b-443c-85a2-390f1b04aee1-removebg-preview-mnlqa4KKXoFrklZ7.png",
+    "courses": ["Digital Marketing", "SEO Optimization", "Social Media Strategy"]
   },
   {
     "name": "Rahul Verma",
-    "expertise": "Web Development",
     "bio": "Expert in full-stack development with React and Node.js.",
-    "imageUrl": "https://assets.zyrosite.com/dOq8LZD1epuBzrL5/franchise-wealthyrays-YD0lo94vr8cKRKJv.png"
+    "imageUrl": "https://assets.zyrosite.com/dOq8LZD1epuBzrL5/franchise-wealthyrays-YD0lo94vr8cKRKJv.png",
+    "courses": ["Web Development", "React.js", "Node.js"]
   },
   {
     "name": "Priya Nair",
-    "expertise": "Graphic Design",
     "bio": "Specializes in creating stunning visuals using Canva and Photoshop.",
-    "imageUrl": "https://assets.zyrosite.com/dOq8LZD1epuBzrL5/wealthyrays-web-pic-m2W8nPa8J6SVbyJ2.png"
+    "imageUrl": "https://assets.zyrosite.com/dOq8LZD1epuBzrL5/wealthyrays-web-pic-m2W8nPa8J6SVbyJ2.png",
+    "courses": ["Graphic Design", "Canva Mastery", "Photoshop Essentials"]
   },
- {
-    "name": "Nirmal singh",
-    "expertise": "Digital Marketing" "Exprot Import" "Crypto Tradeing",
-    "bio": "BA years of experience in SEO and social media strategies.",
-    "imageUrl": "https://assets.zyrosite.com/dOq8LZD1epuBzrL5/dc75fd7c-0f1b-443c-85a2-390f1b04aee1-removebg-preview-mnlqa4KKXoFrklZ7.png"
+  {
+    "name": "Nirmal Singh",
+    "bio": "Specializes in creating stunning visuals using Canva and Photoshop.",
+    "imageUrl": "https://assets.zyrosite.com/dOq8LZD1epuBzrL5/wealthyrays-web-pic-m2W8nPa8J6SVbyJ2.png",
+    "courses": ["Digital Markiting", "Export Import", "Crypto Trading"]
   }
 ]

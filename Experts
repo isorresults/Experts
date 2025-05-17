@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Anita Sharma",
+    "expertise": "Digital Marketing",
+    "bio": "10+ years of experience in SEO and social media strategies.",
+    "imageUrl": "https://assets.zyrosite.com/dOq8LZD1epuBzrL5/dc75fd7c-0f1b-443c-85a2-390f1b04aee1-removebg-preview-mnlqa4KKXoFrklZ7.png"
+  },
+  {
+    "name": "Rahul Verma",
+    "expertise": "Web Development",
+    "bio": "Expert in full-stack development with React and Node.js.",
+    "imageUrl": "https://assets.zyrosite.com/dOq8LZD1epuBzrL5/franchise-wealthyrays-YD0lo94vr8cKRKJv.png"
+  },
+  {
+    "name": "Priya Nair",
+    "expertise": "Graphic Design",
+    "bio": "Specializes in creating stunning visuals using Canva and Photoshop.",
+    "imageUrl": "https://assets.zyrosite.com/dOq8LZD1epuBzrL5/wealthyrays-web-pic-m2W8nPa8J6SVbyJ2.png"
+  }
+]
